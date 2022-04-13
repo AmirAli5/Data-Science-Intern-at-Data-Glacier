@@ -6,15 +6,15 @@
 
 1.	<B>Learn about BitBucket for Version Control [(link)](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) </B>
 2.	<B>Version Control Assignment</B>
-      * Clone the VC repo (https://github.com/DataGlacier/VC.git (Links to an external site.))
+      * Clone the VC repo (https://github.com/DataGlacier/VC.git 
       * Create a new branch
       * Create a new branch
       * Checkout newly created branch
       * Run the add.py and provide your name and fav sport as input
       * Run the test script using command:   pytest test/test.py -s
       * ignore warning and if there is no error then add, commit and push your changes to repo
-      * create pull request and assign to reviewer (If you are working in the group else push the changes to your own repo and submit the URL of that)
-      * If reviewer approves, then merge the changes to master (optional as this is individual assignment.)
+      * create pull request and assign to reviewer
+      * If reviewer approves, then merge the changes to master
       * Submission Link: https://github.com/AmirAli5/VC
 3.	<B>Learn about Scrum [(link)](https://www.atlassian.com/agile/scrum) </B>
 4.	<B>Learn about Kanban [(link)](https://www.atlassian.com/agile/kanban) </B>
