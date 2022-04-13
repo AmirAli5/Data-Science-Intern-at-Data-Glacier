@@ -6,7 +6,7 @@
 
 1.	<B>Learn about BitBucket for Version Control [(link)](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) </B>
 2.	<B>Version Control Assignment</B>
-      * Clone the VC repo (https://github.com/DataGlacier/VC.git 
+      * Clone the VC repo [(Link)](https://github.com/DataGlacier/VC.git) 
       * Create a new branch
       * Create a new branch
       * Checkout newly created branch
