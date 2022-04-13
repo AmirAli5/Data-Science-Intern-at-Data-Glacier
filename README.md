@@ -1,6 +1,6 @@
-![Data Science Intern at Data Glacier](https://pbs.twimg.com/media/FPq_1PNWQAYLqwC?format=jpg&name=large)
 
 ## Week 1 (30 March - 06 April)
+![Data Science Intern at Data Glacier](https://pbs.twimg.com/media/FPq_1PNWQAYLqwC?format=jpg&name=large)
 
 ![Week 1](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 1.	<B>Learn about BitBucket for Version Control [(link)](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) </B>
