@@ -21,8 +21,8 @@
 ![](https://pbs.twimg.com/media/FPrFGbMXsAo9W28?format=png&name=240x240)
 6.	<B>Model Evaluation Metrics </B>
      * Requirement for classification problem in this Internship
-               * Accuracy
-               * Precision
+         * Accuracy
+         * Precision
         * Recall
         * F1 Score
         * Lift and Gain
