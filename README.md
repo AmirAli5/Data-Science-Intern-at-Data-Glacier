@@ -5,8 +5,8 @@
 ![Week 1](https://user-images.githubusercontent.com/7065401/52071927-c1cd7100-2562-11e9-908a-dde91ba14e59.png)
 1.	<B>Learn about BitBucket for Version Control [(link)](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) </B>
 2.	<B>Version Control Assignment</B>
-  * Clone the VC repo (https://github.com/DataGlacier/VC.git (Links to an external site.))
-  * Create a new branch
+       * Clone the VC repo (https://github.com/DataGlacier/VC.git (Links to an external site.))
+       * Create a new branch
   * Create a new branch
   * Checkout newly created branch
   * Run the add.py and provide your name and fav sport as input
