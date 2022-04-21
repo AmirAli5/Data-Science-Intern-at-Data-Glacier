@@ -51,9 +51,7 @@ Submission Link: https://github.com/AmirAli5/Data-Science-Intern-at-Data-Glacier
 ![ML](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 
 #### Project: G2M insight for Cab Investment firm
-The Client XYZ is a private firm in US. Due to remarkable growth in the Cab Industry in last few years and multiple key players in the market, it is planning for        an investment in Cab industry and as per their Go-to-Market(G2M) strategy they want to understand the market before taking final decision.
+The same thing that I did in week 2  but additional implement Linear Regression Model to Predict the Price of Charged.
 
-Datasets contain information on 2 cab companies. Each file (data set) provided represents different aspects of the customer profile. XYZ is interested in using your actionable insights to help them identify the right company to make their investment.
-Task That I have 
+Submission Link: https://github.com/AmirAli5/Data-Science-Intern-at-Data-Glacier/tree/main/Week%203
 
-Submission Link: https://github.com/AmirAli5/Data-Science-Intern-at-Data-Glacier/tree/main/Week%202
