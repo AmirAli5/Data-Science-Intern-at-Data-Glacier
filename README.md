@@ -40,9 +40,9 @@ The Client XYZ is a private firm in US. Due to remarkable growth in the Cab Indu
 Datasets contain information on 2 cab companies. Each file (data set) provided represents different aspects of the customer profile. XYZ is interested in using your actionable insights to help them identify the right company to make their investment.
 
 <b>Tasks</b> <br>
-           * Identify relationships across the files
-           * Exploratory Data Analysis(EDA)
-           * Multiple hypothesis and investigate
+     * Identify relationships across the files <br>
+     * Exploratory Data Analysis(EDA) <br>
+     * Multiple hypothesis and investigate <br>
 
 Submission Link: https://github.com/AmirAli5/Data-Science-Intern-at-Data-Glacier/tree/main/Week%202
 
